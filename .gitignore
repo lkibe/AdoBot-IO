@@ -2,3 +2,4 @@
 /panel/dist
 
 /dist
+*node_modules/*
